@@ -8,8 +8,8 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.awssdjava.awsdemo</groupId>
-	<artifactId>AWSService</artifactId>
+	<artifactId>cloudformationtaskcatbuild</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>AWSService</name>
+	<name>cloudformationtaskcatbuild</name>
 	<description>Demo project for Spring Boot</description>
   </project>
